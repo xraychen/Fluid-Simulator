@@ -1,5 +1,5 @@
 # FluidApp
-Realtime fluid stimulation, support mutiple physic models and memorized user selection in database.
+Realtime fluid stimulation, support multiple physic models and memorized user selection in database.
 
 ## How to use
 1. Create an user account
@@ -52,13 +52,12 @@ npm start
 * Build frontend with bootstrap css and react
 * Handle user register, login and logout with cookie and jsonwebtoken
 * Handle custom model saving and deletion with ajax call connected to the rest api
-* The fluid stimulation code comes from a previous pyhsic project, contribute with my teammate.
+* The fluid stimulation code comes from a previous physics project, contribute with my teammate.
 
 ## Experience
-The original gaol of the previous phisics project is to build a configuiable fluid stimulator, let student who learn physics have better insight of waterwave. In order to reach this goal, we need a user friendly interface for easy configuration. I learned how to build a good api and how to communicate with server by ajax call through this propject. It's not an easy process, but I learned a lot through reading through documentation. Hope this project will benifit students who are intrested in physics.
+The original gaol of the previous physics project is to build a configurable fluid stimulator, let student who learn physics have better insight of water wave. In order to reach this goal, we need a user friendly interface for easy configuration. I learned how to build a good api and how to communicate with server by ajax call through this project. It's not an easy process, but I learned a lot through reading through documentation. Hope this project will benefit students who are interested in physics.
 
 ## References
 
 * Each framework and module's documentation
 * Reference mern framework https://github.com/bradtraversy/mern_shopping_list
-
