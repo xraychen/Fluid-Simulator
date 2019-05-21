@@ -1,0 +1,5 @@
+{
+    "mongouri": "your_mongodb_uri",
+    "secret": "your_secret_key"
+}
+
