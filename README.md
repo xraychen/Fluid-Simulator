@@ -54,6 +54,9 @@ npm start
 * Handle custom model saving and deletion with ajax call connected to the rest api
 * The fluid stimulation code comes from a previous pyhsic project, contribute with my teammate.
 
+## Experience
+The original gaol of the previous phisics project is to build a configuiable fluid stimulator, let student who learn physics have better insight of waterwave. In order to reach this goal, we need a user friendly interface for easy configuration. I learned how to build a good api and how to communicate with server by ajax call through this propject. It's not an easy process, but I learned a lot through reading through documentation. Hope this project will benifit students who are intrested in physics.
+
 ## References
 
 * Each framework and module's documentation
