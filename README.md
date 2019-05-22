@@ -28,6 +28,9 @@ npm install
 # Install dependencies for client
 npm run client-install
 
+# Build react app for client
+npm run client-build
+
 # Run server
 npm start
 ```
