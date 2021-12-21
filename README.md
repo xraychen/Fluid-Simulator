@@ -1,6 +1,6 @@
 # Fluid Simulator
 * Realtime fluid stimulation, support multiple physic models and memorized user selection in database.
-* You can see the live demo of fluid stimulation [here](https://b06901135.github.io/Fluid-Simulator-Demo/), without the server functionality.
+* You can see the live demo of fluid stimulation [here](https://xraychen.github.io/Fluid-Simulator-Demo/), without the server functionality.
 
 ## How to use
 1. Create an user account
